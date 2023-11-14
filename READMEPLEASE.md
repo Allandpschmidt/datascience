@@ -1,1 +1,1 @@
-# datascience is the science of the data, it uses tools to extract insights from data sets and helps solving problems and adding value to stakeholders.
+# @Freire, consegui extrair alguns dados que estão no Excel Weather_Data no repositório. O grande problema estão sendo a direção do vento e das ondas uma vez que no arquivo do website (www.windguru.com.br) os mesmos sao representados por setas de direção ao invés de numerais.
